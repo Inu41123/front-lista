@@ -1,4 +1,4 @@
-    const API_URL = 'https://api-lista-pysh.onrender.com'; 
+    const API_URL = 'https://api-lista-pysh.onrender.com/api'; 
     let estadoActual = [];
     
     // Variables para saber qué estamos editando en el modal
